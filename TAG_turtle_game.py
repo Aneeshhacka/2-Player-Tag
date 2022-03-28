@@ -1,6 +1,5 @@
 import turtle 
 import random 
-import time as t
 import tkinter 
 import tkinter.simpledialog as SD
 import tkinter.messagebox as MB
